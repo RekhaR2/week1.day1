@@ -3,8 +3,8 @@ package week1.day1;
 public class Student {
 
 	//Program2 "Creating Class Student and Calling all access modifiers"
-	String name = "S.Rekha";
-	int rollNumber = 25;
+	String name = "S.Rekha";//Global Variable
+	int rollNumber = 25;//Global Variable
 	public void College()
 	{
 		String collegeName = "MEC";
